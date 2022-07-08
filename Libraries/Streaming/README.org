@@ -1,0 +1,22 @@
+#+TITLE: Streaming
+#+AUTHOR: Mikal Hart
+#+EMAIL: peter@polidoro.io
+
+* Library Information
+  - Name :: Streaming
+  - Version :: 6.0.10
+  - License :: GNU LGPL
+  - URL :: https://github.com/janelia-arduino/Streaming
+  - Author :: Mikal Hart
+  - Maintainer :: Peter Polidoro
+  - Email :: peter@polidoro.io
+
+** Description
+
+   Streaming C++-style Output with Operator <<. Supports _DEC, _BIN, _HEX, _OCT,
+   _FLOAT, _PAD, _WIDTH, _WIDTHZ and _FMT stream helpers. See example code for
+   usage details.
+
+* Source
+
+  [[http://arduiniana.org/libraries/streaming/]]
